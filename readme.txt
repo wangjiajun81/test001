@@ -1,3 +1,3 @@
 this is first line
 this is second line
-this is branch line qucik & simple
+this is branch line is quick AND simple
